@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Just a marketing person trying to learn how to use GitHub!
 <!--
 **KristinKMD/KristinKMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
