@@ -1,4 +1,4 @@
-![Binary KD](https://ozoneamp.com/wp-content/uploads/2021/11/1500x500.jpeg)  
+![Binary KD](https://ozoneamp.com/wp-content/uploads/2021/11/github.jpg)  
 
 ## Welcome to my profile, stay awhile... 👋
 Just a marketing gal trying to learn how to use GitHub! Connect with me on [Linkedin](https://www.linkedin.com/in/kristinmdavis/).  
@@ -19,7 +19,7 @@ Just a marketing gal trying to learn how to use GitHub! Connect with me on [Link
 
 ---
 
-### 🚀 Stuff I've never worked with, but my co-workers have!! (I feel like this makes my profile look cool. No?!)
+### 🚀 Stuff I've never worked with, but my co-workers have!! (I feel like this makes my profile look cool, no?!)
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
