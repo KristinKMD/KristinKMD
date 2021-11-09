@@ -9,7 +9,13 @@ Just a marketing gal trying to learn how to use GitHub! Connect with me on [Link
 - 💬 Ask me about my dogs. In fact, just follow them [here](https://www.instagram.com/littlejerrystackhouse/). They are AWESOME!
 - ⚡ Fun fact: I work at Appwrite and you should [check us out](https://appwrite.io/)!
 
-![Binary KD](https://ozoneamp.com/wp-content/uploads/2021/11/appwrite.png) 
+![Appwrite Logo](https://ozoneamp.com/wp-content/uploads/2021/11/appwrite.png) 
+
+
+- Contribute to the [Appwrite](https://github.com/appwrite/appwrite) open source project
+- Join us on our [Discord Channel](https://discord.com/invite/GSeTUeA)
+- Follow us on Twitter [@appwrite_io](https://twitter.com/appwrite_io)
+- Here's where you can find us on [LinkedIn](https://www.linkedin.com/company/appwrite/)
 
 ---
 
